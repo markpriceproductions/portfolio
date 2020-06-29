@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'The Historia Demo';
+    src: url('TheHistoriaDemo.eot');
+    src: url('TheHistoriaDemo.eot?#iefix') format('embedded-opentype'),
+        url('TheHistoriaDemo.woff2') format('woff2'),
+        url('TheHistoriaDemo.woff') format('woff'),
+        url('TheHistoriaDemo.ttf') format('truetype'),
+        url('TheHistoriaDemo.svg#TheHistoriaDemo') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
